@@ -1,4 +1,5 @@
-# EX 09 Implementation-of-Erosion-and-Dilation
+# EX-9
+# Implementation-of-Erosion-and-Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
@@ -23,10 +24,9 @@ Dilate the Image
 
  
 ## Program:
-```
-NAME: Ashwin Kumar S
-REG.NO: 212222240013
-```
+### NAME: Ashwin Kumar S
+### REG.NO: 212222240013
+
 
 ### Import the necessary packages
 ``` 
